@@ -21686,6 +21686,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4530ac46c00c9f843bb2a0b2843ecffd, type: 3}
+--- !u!1 &919132148225541097 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2612401991330514101, guid: 3141666c3ee2c564a9e7436f215fa32f, type: 3}
+  m_PrefabInstance: {fileID: 2918460190794139484}
+  m_PrefabAsset: {fileID: 0}
+--- !u!320 &919132148225541098
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148225541097}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: a66560dbf85f70d41bad46e421c0041f, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings: []
+  m_ExposedReferences:
+    m_References: []
 --- !u!1001 &1202391176366491109
 PrefabInstance:
   m_ObjectHideFlags: 0
